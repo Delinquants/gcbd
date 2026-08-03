@@ -1,0 +1,22 @@
+node_modules
+.pnpm-store
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env.local
+.env.*.local
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

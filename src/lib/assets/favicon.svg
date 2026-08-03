@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" version="1.1" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <text x="1.3999394" y="52.493668" fill="#000091" font-size="66.667px" xml:space="preserve"><tspan x="1.3999394" y="52.493668" fill="#000091" font-weight="bold">.</tspan></text>
+  <path d="m16.182 39.337s1.1696-32.807 56.786-34.902c-44.312 9.0623-56.786 34.902-56.786 34.902z" fill="#000091"/>
+  <text x="4.3999414" y="66.058769" fill="#ffffff" font-size="66.667px" xml:space="preserve"><tspan x="4.3999414" y="66.058769" fill="#ffffff" font-weight="bold">.</tspan></text>
+  <path d="m19.182 52.902s1.1696-32.807 56.786-34.902c-44.312 9.0623-56.786 34.902-56.786 34.902z" fill="#fff"/>
+  <text x="8.3999414" y="78.058769" fill="#e1000f" font-size="66.667px" xml:space="preserve"><tspan x="8.3999414" y="78.058769" fill="#e1000f" font-weight="bold">.</tspan></text>
+  <path d="m23.182 64.902s1.1696-32.807 56.786-34.902c-44.312 9.0623-56.786 34.902-56.786 34.902z" fill="#e1000f"/>
+ </g>
+</svg>
